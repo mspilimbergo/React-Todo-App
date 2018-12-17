@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f71e64f2-e580-47c0-bfd2-e9cf850faa4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AddTodo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-    </list>
+    <list default="true" id="f71e64f2-e580-47c0-bfd2-e9cf850faa4b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -166,24 +156,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544993567226</updated>
-      <workItem from="1544993568314" duration="10434000" />
+      <workItem from="1544993568314" duration="10675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10434000" />
+    <option name="totallyTimeSpent" value="10675000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1192" y="-216" width="1192" height="1200" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1072" y="-216" width="1072" height="1200" extended-state="6" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19897524" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22169362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32920355" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32920355" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
