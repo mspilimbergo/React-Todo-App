@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f71e64f2-e580-47c0-bfd2-e9cf850faa4b" name="Default Changelist" comment="" />
+    <list default="true" id="f71e64f2-e580-47c0-bfd2-e9cf850faa4b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -156,19 +158,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544993567226</updated>
-      <workItem from="1544993568314" duration="10675000" />
+      <workItem from="1544993568314" duration="11269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10675000" />
+    <option name="totallyTimeSpent" value="11269000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1072" y="-216" width="1072" height="1200" extended-state="6" />
+    <frame x="-831" y="-216" width="831" height="1200" extended-state="6" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22169362" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2876543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
