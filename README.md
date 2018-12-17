@@ -1,4 +1,4 @@
-Here's a simple todo-app in React. Enjoy :). 
+Here's a simple todo-app in React. Enjoy :) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
